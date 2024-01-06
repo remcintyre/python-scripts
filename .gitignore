@@ -162,4 +162,4 @@ cython_debug/
 
 
 # Apple directory
-.DS_Store/
+.DS_Store
